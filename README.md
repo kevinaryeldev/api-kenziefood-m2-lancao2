@@ -2,7 +2,7 @@
 
 # API-KenzieFood
 
-Este projeto foi apresentado durante a conclusão do 2º modulo da kenzie academy brasil. foi uma atividade em grupo para construir uma aplicação que consumisse uma api. o design foi enviado pronto para nós e pode ser acessado <a href="https://www.figma.com/file/yCesx2slm3unVtyVW5d3RK/M2---E-commerce-Produtos---Kenzie-Food">aqui </a>
+Este projeto foi apresentado durante a conclusão do 2º modulo da kenzie academy brasil. foi uma atividade em grupo para construir uma aplicação que consumisse uma api. O design foi enviado pronto para nós e pode ser acessado <a href="https://www.figma.com/file/yCesx2slm3unVtyVW5d3RK/M2---E-commerce-Produtos---Kenzie-Food">neste Figma </a>
 
 Link da página: <a href="https://kevinaryeldev.github.io/api-kenziefood-m2-lancao2/">https://kevinaryeldev.github.io/api-kenziefood-m2-lancao2/</a>
 
