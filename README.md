@@ -6,7 +6,9 @@ Este projeto foi apresentado durante a conclusão do 2º modulo da kenzie academ
 
 Link da página: <a href="https://kevinaryeldev.github.io/api-kenziefood-m2-lancao2/">https://kevinaryeldev.github.io/api-kenziefood-m2-lancao2/</a>
 
-Um grupo de 4 pessoas teve 4 dias (1 para planejamento) para construir a aplicação. Abaixo a descrição da atividade e após a descrição da api
+Um grupo de 4 pessoas teve 4 dias (1 para planejamento) para construir a aplicação. A abordagem do desenvolvimento foi ágil utilizando scrum e eu tive a role de developer.
+
+## Abaixo a descrição da atividade e após a descrição da api
 
 ## Entrega: Projeto Capstone
 
